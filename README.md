@@ -3,6 +3,7 @@
 A full-stack web application that aggregates news articles from multiple sources and provides a blogging platform for users to share their thoughts, opinions, and analysis. This project combines real-time news updates with user-generated content, creating a dynamic and interactive platform.
 
 🚀 Features
+
 🔹 News Aggregator
 
 Fetches the latest news from multiple sources (using APIs or web scraping).
